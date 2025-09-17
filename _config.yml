@@ -1,0 +1,30 @@
+# url: https://y7kim.github.io
+# baseurl: /agency-jekyll-theme/
+url: "" # Sub path of your site. Eg: /blog
+baseurl: "" # the base hostname of your site. Eg: http://example.com
+
+# Site settings
+title: Sanju Gharti Chhetri
+email: gcsanju89@gmail.com
+description: "Portfolio for Sanju Gharti Chhetri: Instructional Designer, Researcher in Learning Innovation & Educational Technology"
+# TODO: Update!
+# description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://gcsanju.github.io
+  - title: linkedin
+    url: https://www.linkedin.com/in/sanju-gharti-chhetri/
+  - title: envelope
+    url: mailto:gcsanju89@gmail.com
+
+# Postal address (add as many lines as necessary)
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
