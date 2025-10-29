@@ -4,9 +4,9 @@ subtitle: " "
 layout: default
 modal-id: 8
 date: 2022-08-01
-img: mbot-neo.png
+img: 8-mbot-neo.png
+thumbnail: 8-mbot-neo-thumbnail.png
 pdf: Sanju-Assembling mBot Neo.pdf
-thumbnail: mbot-neo-thumbnail.png
 alt: image-alt
 project-date: August 2022
 client: Pre-service teachers, Elementary to High school students

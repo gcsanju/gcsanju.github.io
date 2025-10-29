@@ -4,9 +4,9 @@ subtitle: "  "
 layout: default
 modal-id: 11
 date: 2023-01-01
-img: programming-mbot-neo.png
+img: 11-EPSS.png
+thumbnail: 11-EPSS-thumbnail.png
 pdf: Sanju-EPSS.pdf
-thumbnail: programming-mbot-neo-thumbnail.png
 alt: image-alt
 project-date: January 2023
 client: Company employees

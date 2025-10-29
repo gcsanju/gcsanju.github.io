@@ -4,9 +4,9 @@ subtitle: " "
 layout: default
 modal-id: 2
 date: 2023-04-01
-img: programming-mbot-neo.png
+img: 2-web-based-instructional-design.png
+thumbnail: 2-web-based-instructional-design-thumbnail.png
 pdf: Sanju-Web Based Instructional Design (WBID)-Design Document.pdf
-thumbnail: programming-mbot-neo-thumbnail.png
 alt: image-alt
 project-date: April 2023
 client: Employees working on project/program management

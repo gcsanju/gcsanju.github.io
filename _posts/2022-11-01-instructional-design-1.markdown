@@ -4,9 +4,9 @@ subtitle: " "
 layout: default
 modal-id: 1
 date: 2022-11-01
-img: programming-mbot-neo.png
+img: 1-instructional-design.png
+thumbnail: 1-instructional-design-thumbnail.png
 pdf: Sanju-Instructional Design Report.pdf
-thumbnail: programming-mbot-neo-thumbnail.png
 alt: image-alt
 project-date: November 2022
 client: Pre-service teachers

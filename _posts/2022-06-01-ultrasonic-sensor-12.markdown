@@ -4,9 +4,9 @@ subtitle: "  "
 layout: default
 modal-id: 12
 date: 2022-06-01
-img: programming-mbot-neo.png
+img: 12-mbot-ultrasonic.png
+thumbnail: 12-mbot-ultrasonic-thumbnail.png
 pdf: Sanju-Ultrasonic.pdf
-thumbnail: programming-mbot-neo-thumbnail.png
 alt: image-alt
 project-date: June 2022
 client: Pre-service teachers, students

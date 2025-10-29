@@ -4,9 +4,9 @@ subtitle: "  "
 layout: default
 modal-id: 13
 date: 2022-06-03
-img: programming-mbot-neo.png
+img: 13-mbot-quad.png
+thumbnail: 13-mbot-quad-thumbnail.png
 pdf: Sanju-Quad RGB Sensor.pdf
-thumbnail: programming-mbot-neo-thumbnail.png
 alt: image-alt
 project-date: June 2022
 client: Pre-service teachers, students
